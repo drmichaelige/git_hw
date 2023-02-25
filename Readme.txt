@@ -1,1 +1,1 @@
-Michael O Ige
+Michael O
