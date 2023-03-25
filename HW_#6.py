@@ -7,7 +7,7 @@ def Average(list1):
 
 
 def Elements_less_average(list1, average):
-    # traverse in the list
+    # traverse in the listgit statu
     for x in list1:
 
         # compare with all the
