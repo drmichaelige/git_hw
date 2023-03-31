@@ -99,10 +99,10 @@ result = find_missing_number(test_arr1, test_arr2)
 print(result)
 
 
-# method 2
-
-for num1, num2 in zip(arr1, arr2):
-
-    if num1 != num2:
-        return num1
-    return arr1[-1]
+# # method 2
+#
+# for num1, num2 in zip(arr1, arr2):
+#
+#     if num1 != num2:
+#         return num1
+#     return arr1[-1]
